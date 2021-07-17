@@ -127,7 +127,7 @@
         },
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
-            "NEED_REPLY": "*Reply to a photo!*",
+            "NEED_REPLY": "*Monu Photo kk Reply Thaa🙂*",
             "DOWNLOADING": "```Downloading media & making meme...```"
         },
         "log": {
@@ -149,7 +149,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going 🤠```",
+            "KICKME": "```By The By Njan Pokunnu🤠```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -186,12 +186,12 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Searching your song 🎶*\n",
+            "DOWNLOADING_SONG": "\n*Ente Mwthe Njan Song Download Akkuva🎶*\n",
             "UPLOADING_SONG": "\n*Uploading 📲 Use 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading...```",
-            "UPLOADING_VIDEO": "```Uploading...```",
+            "DOWNLOADING_VIDEO": "```Eppo Tharave```",
+            "UPLOADING_VIDEO": "```Inna Pidicho Ente Ponne❤```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Nissaram 🤠```"
+            "DOWNLOADING": "```Ithokke Nth😼```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*JulieMwol Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
+            "NEW_UPDATE": "*ElsaMwol Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🐥```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*👰 JulieMwol Restarting*"
+            "AFTER_UPDATE": "*👰 ElsaMwol Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
