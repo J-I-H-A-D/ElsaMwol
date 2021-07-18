@@ -15,18 +15,6 @@
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0)
-  <div align="center">
-
-
-
-
-
-
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
