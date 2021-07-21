@@ -57,8 +57,6 @@ Subscriber My Channel More Updates Coming Soon.
 https://youtube.com/channel/UCJsw1rA4aiujLDM42Yte1nQ
 
 
-J
-
 
 Project created by JIHAD to make it public
 
