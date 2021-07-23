@@ -1,5 +1,27 @@
-![e61323a021448e142f1b0b5aa1de9a6d](https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg)
-# ElsaMwol
+<div align="center">
+  <img border-radius: 15px src="https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg" width="200" height="200"/>
+  
+  <p align="center">
+    
+<a href="#"><img title="Elsa Mwol"
+ src="https://img.shields.io/badge/-Elsa%20Mowl-blue?&style=for-the-badge"></a>
+ </p>
+  <p align="center">
+<a href="https://github.com/J-I-H-A-D"><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+ </p>
+ 
+## Subscriber My Channel More Updates Coming Soon..
+ 
+![20210613_095153](https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg) 
+
+ ##
+https://youtube.com/channel/UCJsw1rA4aiujLDM42Yte1nQ
+ 
+ ## My Official Whatsapp Group :
+  https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0
+ 
+
+# Elsa Mwol WhatsApp Bot 
 
 # Setup
 <div align="center">
@@ -10,18 +32,11 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/J-I-H-A-D/ElsaMwol)
      </div>
-<br>
-<br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-
-bash <(curl -L https://t.ly/tHxh)
-``` 
+     
+     ## TERMUX SET UP
   
-My Official Whatsapp Group : https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0
+## The Hard Method
 
-
-### The Hard Method
 ```js
 GET QR
 $ apt update
@@ -37,6 +52,7 @@ $ node qr.js
       
 ```js
 SETUP
+
 $ git clone https://github.com/J-I-H-A-D/ElsaMwol
 $ cd ElsaMwol
 $ chmod +x *
@@ -46,18 +62,6 @@ $ node qr.js
 $ node bot.js
 ```
 
-
-
-
-ElsaMwol WhatsApp Bot 
-
-Subscriber My Channel More Updates Coming Soon.
-![20210613_095153](https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg) 
-
-https://youtube.com/channel/UCJsw1rA4aiujLDM42Yte1nQ
-
-
-
 Project created by JIHAD to make it public
 
-| © | Reserved |
+© Reserved
