@@ -10,7 +10,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════Jimbrootan🧞‍♂️═════╗*\n             \n *😈═Jimbrootan🧞‍♂️═😈* \n\n   *owner Mikhaiel - http://Wa.me/+919544846609 \n* *\n🔰instagram:-https://www.instagram.com/the_real_mikhaiel* \n *╚══════♻️═════╝* \n\n *▷Creator: Mikhaiel*"
+    r_text[1] = "*╔═════ElsaMwol🙍═════╗*\n             \n *😈═ElsaMwol🙍═😈* \n\n   *owner JiHaD - http://Wa.me/+917736703116 \n* *\n🔰instagram:-https://www.instagram.com/nthada.show.ano* \n *╚══════♻️═════╝* \n\n *▷Creator: JiHaD SeR*"
 
     
     await message.client.sendMessage(
@@ -23,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           *\n💥═Jinn🧞‍♂️ Owner Mikhaiel═💥*\n\n*💘https://github.com/Mikhaiel/jinnh*\n*"
+        r_text[1] = "*Git links*\n           *\n💥═ElsaMwol🙍 Owner JiHaD═💥*\n\n*💘https://github.com/J-I-H-A-D/ElsaMwol*\n*"
 
     
         await message.client.sendMessage(
@@ -39,7 +39,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════Jimbrootan🧞‍♂️═════╗*\n                            \n *⚜═Jinn🧞‍♂️═⚜*                        \n\n*owner Mikhaiel - http://Wa.me/+919544846609*\n *\n🔰instagram:-https://www.instagram.com/the_real_Mikhaiel*            *\n*╚════♻️══♻️══♻️═══╝*\n\n* ▷Creator: Mikhaiel*"
+    r_text[1] = "*╔═════ElsaMwol🙍═════╗*\n                            \n *⚜═Elsa🙍═⚜*                        \n\n*owner JiHaD - http://Wa.me/+917736703116*\n *\n🔰instagram:-https://www.instagram.com/nthada.show.ano*            *\n*╚════♻️══♻️══♻️═══╝*\n\n* ▷Creator: JiHaD*"
 
     
     await message.client.sendMessage(
@@ -52,7 +52,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "```Git links```\n           \n💥═Jinn🧞‍♂️ owner Mikhaiel═💥 \n\n 💘 https://github.com/Mikhaiel/Jinnh \n*"
+        r_text[1] = "```Git links```\n           \n💥═Elsa🙂 owner JiHaD═💥 \n\n 💘 https://github.com/J-I-H-A-D/ElsaMwol \n*"
 
     
         await message.client.sendMessage(
