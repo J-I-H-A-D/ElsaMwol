@@ -1,8 +1,6 @@
 /* Copyright (C) 2020 jihad ser.
-
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-
 WhatsAsena - Yusuf Usta
 */
 const fs = require('fs')
@@ -57,7 +55,7 @@ Asena.addCommand({on: 'text', fromMe: false }, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '918921483992@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Elsa','Di','Ok','Sed','Friend','Kannappi','Group','Single','Alamb','Bgm','Moodesh','Song','Thyr','Jihad','Ok bie','help','Adi','Anthas','Boss','Pubg','Free Fire','Kali','Kaztro','mention','Hi','Da','Name','Shahul','Bot','bot','song','hlo','Hlo','power','love','Lub','message','myre','mess','power','love','Lub','message','myre','mess','owner']
+const array = ['Elsa','Di','Ok','Sed','Friend','Kannappi','Group','Single','Alamb','Bgm','Moodesh','Song','Thyr','Jihad','Ok bie','help','Adi','Anthas','Boss','Pubg','Free Fire','Kali','Kaztro','mention','Hi','Da','Name','Shahul','Bot','bot','song','hlo','Hlo','power','love','Lub','message','myre','mess','power','love','Lub','message','myre','mess']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -120,8 +118,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '918921483992@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Elsa','Di','Ok','Sed','Friend','Kannappi','Group','Single','Alamb','Bgm','Moodesh','Song','Thyr','Jihad','Ok bie','help','Adi','Anthas','Boss','Pubg','Free Fire','Kali','Kaztro','mention','Da','Hi','Name','Shahul','Bot','bot','song','hlo','Hlo','power','love','Lub','message','myre','mess','power','love','Lub','message','myre','mess','owner']
-array.map( async (a) => {]
+const array = ['Elsa','Di','Ok','Sed','Friend','Kannappi','Group','Single','Alamb','Bgm','Moodesh','Song','Thyr','Jihad','Ok bie','help','Adi','Anthas','Boss','Pubg','Free Fire','Kali','Kaztro','mention','Da','Hi','Name','Shahul','Bot','bot','song','hlo','Hlo']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -140,32 +137,5 @@ if(pattern.test(message.message)){
             }
         }
     );
-}));
-Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
-    if(Config.AUTOSTICKER){
-    let banned = jid.find( Jid => Jid === message.jid);
-    if(banned !== undefined) return
-    if (!!message.mention && message.mention[0] == '918921483992@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
-    }
-const array = ['Hai','Hai',]
-array.map( async (a) => {
-let pattern = new RegExp(`\\b${a}\\b`, 'g');
-if(pattern.test(message.message)){
-   await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/' + a + '.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted: message.data, ptt: false})
-}
-});
-}
-
-var filtreler = await FilterDb.getFilter(message.jid);
-if (!filtreler) return; 
-filtreler.map(
-    async (filter) => {
-        pattern = new RegExp(filter.dataValues.regex ? filter.dataValues.pattern : ('\\b(' + filter.dataValues.pattern + ')\\b'), 'gm');
-        if (pattern.test(message.message)) {
-            await message.client.sendMessage(message.jid,filter.dataValues.text, MessageType.text, {quoted: message.data});
-        }
-    }
-);
 }));
 }
