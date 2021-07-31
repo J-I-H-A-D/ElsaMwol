@@ -62,6 +62,24 @@ $ node qr.js
 $ node bot.js
 ```
 
+# 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0)
+  <div align="center">
+
+
+### ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, J-I-H-A-D do not accept responsibility.
+By establishing the Userbot, you are deemed to have accepted these responsibilities.
+```
+
+
+
 Project created by JIHAD to make it public
 
 © Reserved
