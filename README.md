@@ -17,9 +17,14 @@
  ##
 https://youtube.com/channel/UCJsw1rA4aiujLDM42Yte1nQ
  
- ## My Official Whatsapp Group :
-  https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0
+# 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0)
+  <div align="center">
  
+
 
 # Elsa Mwol WhatsApp Bot 
 
@@ -61,13 +66,6 @@ $ node qr.js
    // scan the qr using whatsapp web on your phone
 $ node bot.js
 ```
-
-# 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0)
-  <div align="center">
 
 
 ### ⚠️ Warning! 
