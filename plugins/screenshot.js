@@ -1,6 +1,6 @@
-/* Codded by @Mikhaiel
+/* Codded by @J-I-H-A-D 
 
-Instagram: www.instagram.com/the_real_Mikhaiel
+Instagram: www.instagram.com/nthada.show.ano
 
 */
 
@@ -23,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
 
         var webimage = await axios.get(`https://shot.screenshotapi.net/screenshot?&full_page=true&url=${match[1]}&fresh=true&output=image&file_type=png&dark_mode=true&wait_for_event=load&delay=2000`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MADE BY JIMBROOTAN*'})
+        await message.sendMessage(Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MADE BY ELSAMWOL*'})
 
     }));
 }
@@ -35,7 +35,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var webimage = await axios.get(`https://shot.screenshotapi.net/screenshot?&full_page=true&url=${match[1]}&fresh=true&output=image&file_type=png&dark_mode=true&wait_for_event=load&delay=2000`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MADE BY JIMBROOTAN*'})
+        await message.sendMessage(Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MADE BY ELSAMWOL*'})
 
     }));
 }
