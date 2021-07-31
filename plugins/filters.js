@@ -57,7 +57,7 @@ Asena.addCommand({on: 'text', fromMe: false }, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '919544846609@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Elsa','Di','Ok','Sed','Friend','Kannappi','Group','Single','Alamb','Bgm','Moodesh','Song','Thyr','Jihad','Ok bie','help','Adi','Anthas','Boss','Pubg','Free Fire','Kali','Kaztro','mention','Hi','Da','Name','Shahul','Bot','bot','song','hlo','Hlo','power','love','Lub','message','myre','mess','power','love','Lub','message','myre','mess','Ok','owner','ayn','Myr','@917736703116','Alla','mess','menu','Ara','ara','Ayin','movie','mathi','Good night','okku','Ombi','over','Phaa','Podi','setta','vazha','vedi','Vijay','Ombi',]
+const array = ['Elsa','Di','Ok','Sed','Friend','Kannappi','Group','Single','Alamb','Bgm','Moodesh','Song','Thyr','Jihad','Ok bie','help','Adi','Anthas','Boss','Pubg','Free Fire','Kali','Kaztro','mention','Hi','Da','Name','Shahul','Bot','bot','song','hlo','Hlo','power','love','Lub','message','myre','mess','power','love','Lub','message','myre','mess','Ok','owner','ayn','Myr','@917736703116','Alla','mess','menu','Ara','ara','Ayin','movie','mathi','Good night','okku','Ombi','over','Phaa','Podi','setta','vazha','vedi','Vijay','Ombi','Hi','hi',]
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -120,7 +120,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '919544846609@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Elsa','Di','Ok','Sed','Friend','Kannappi','Group','Single','Alamb','Bgm','Moodesh','Song','Thyr','Jihad','Ok bie','help','Adi','Anthas','Boss','Pubg','Free Fire','Kali','Kaztro','mention','Hi','Da','Name','Shahul','Bot','bot','song','hlo','Hlo','power','love','Lub','message','myre','mess','power','love','Lub','message','myre','mess','owner','ayn','@917736703116','Alla','Ara','Ayin','Good night','mathi','menu','mess','movie','Myr','nink','okku','Ombi','over','Phaa','Podi','setta','vazha','vedi','Vijay','Umbi',]
+const array = ['Elsa','Di','Ok','Sed','Friend','Kannappi','Group','Single','Alamb','Bgm','Moodesh','Song','Thyr','Jihad','Ok bie','help','Adi','Anthas','Boss','Pubg','Free Fire','Kali','Kaztro','mention','Hi','Da','Name','Shahul','Bot','bot','song','hlo','Hlo','power','love','Lub','message','myre','mess','power','love','Lub','message','myre','mess','owner','ayn','@917736703116','Alla','Ara','Ayin','Good night','mathi','menu','mess','movie','Myr','nink','okku','Ombi','over','Phaa','Podi','setta','vazha','vedi','Vijay','Umbi','Hi','hi',]
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
