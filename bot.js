@@ -801,7 +801,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                 await conn.sendMessage(conn.user.jid, '*-- ERROR REPORT [ElsaMwol] --*' + 
                                     '\n*ElsaMwol an error has occurred!*'+
                                     '\n*This error log may include your number or the number of an opponent. Please be careful with it!*' +
-                                    '\n*You can write to our Telegram group for help.*' +
+                                    '\n*You can write to our WhatsApp group for help.*' +
                                     '\n*Aslo you can join our support group:* https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0' +
                                     '\n*This message should have gone to your number (saved messages).*\n\n' +
                                     '*Error:* ```' + error + '```\n\n'
