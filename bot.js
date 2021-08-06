@@ -1,7 +1,7 @@
-/* Copyright (C) 2020 MIKHAIEL.
+/* Copyright (C) 2020 JIHAD.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-WhatsAsena - jimbrootan
+WhatsAsena - elsamwol
 */
 
 const fs = require("fs");
@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Jimbrootan working! 🧞‍')
+            chalk.green.bold('ElsaMwol working! 🕺')
         );
     });
     
@@ -237,8 +237,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '🧞‍♂️______```Jimbrootan V2```_____🧞‍' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n'
+                                await conn.sendMessage(conn.user.jid, '💝______```ElsaMwol V2```_____💝' +
+                                    '\n\n*🙍 ' + error + '*\n'
                                     , MessageType.text);
                             }
                         }
