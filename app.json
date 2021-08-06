@@ -1,15 +1,14 @@
 {
-    "name": "ElsaMwolV2",
-    "description": "ElsaMwol project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg",
+    "name": "Jimbrootan 🤸",
+    "description": "Jimbrootan - Whatsapp Bot",
+    "logo": "https://avatars.githubusercontent.com/u/72667834?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/J-I-H-A-D/ElsaMwol",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "repository": "https://github.com/Mikhaiel/Jinnh",
+    "Join Our Whatsapp Support Group": "https://chat.whatsapp.com/Buyz3sEdhaWB0Rp7gtsKjd",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
+            "description": "Qr.Js - Type here yours Asena Session.",
             "required": true
         },
         "SUDO": {
@@ -32,46 +31,51 @@
             "value": "true"
         },
         "ANTİ_LİNK": {
-            "description": "Link Engelleme Sistemi. Link Blocking System.",
+            "description" : "Link Blocking System.",
             "required": true,
             "value": "false"
         },
-        "AUTO_BİO": {
-            "description": "Duruma otomatik tarih ve zaman eklemek için true yapın. Set true for auto date, time in biography.",
+        "ALL_LINK_BAN": {
+            "description": "Link Blocking System.- this one blocks all link",
+            "required": true,
+            "value": "false"
+        },
+            "AUTO_BİO": {
+            "description": "Set true for auto date, time in biography.",
             "required": true,
             "value": "false"
         },
         "HANDLERS": {
-            "description": "Komutlar için. For commands.",
+            "description": "For commands.",
             "required": true,
             "value": "^[.!;]"
         },
         "FULL_EVA": {
-            "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
+            "description": "Turn your account into a chatbot!",
             "required": true,
             "value": "false"
         },
         "NO_LOG": {
-            "description": "Hata logu görmek istemiyorsanız true yapın. Set true if you don't want to see error log.",
+            "description": "Set true if you don't want to see error log.",
             "required": true,
             "value": "false"
         },
         "SEND_READ": {
-            "description": "Görüldü atmak istiyorsanız true yazın. Write true if you want to throw seen.",
+            "description": "Write true if you want to throw seen.",
             "required": true,
             "value": "true"
         },
         "HEROKU": {
-            "description": "Herokuda çalışıyorsa true yazın. If it is running in Heroku, type true.",
+            "description": "If it is running in Heroku, type true.",
             "required": true,
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Herokuda API Keyiniz. Heroku API Key.",
+            "description": "Heroku API Key.",
             "required": true
         },
         "MUTE_MESSAGE": {
-            "description": "Düzenlenebilir Mute Mesajı. Customizable Mute Message! Use => default, to change back.",
+            "description": "Customizable Mute Message! Use => default, to change back.",
             "required": false,
             "value": "default"
         },
@@ -81,17 +85,17 @@
             "value": "false"
         },
         "UNMUTE_MESSAGE": {
-            "description": "Düzenlenebilir Unmute Mesajı. Customizable Unmute Message! Use => default, to change back.",
+            "description": "Customizable Unmute Message! Use => default, to change back.",
             "required": false,
             "value": "default"
         },
         "BLOCK_MESSAGE": {
-            "description": "Düzenlenebilir Block Mesajı. Customizable Block Message! Use => default, to change back.",
+            "description": "Customizable Block Message! Use => default, to change back.",
             "required": false,
             "value": "default"
         },
         "UNBLOCK_MESSAGE": {
-            "description": "Düzenlenebilir Unblock Mesajı. Customizable Unblock Message! Use => default, to change back.",
+            "description": "Customizable Unblock Message! Use => default, to change back.",
             "required": false,
             "value": "default"
         },
@@ -101,22 +105,22 @@
             "value": "public"
         },
         "HEROKU_APP_NAME": {
-            "description": "Herokuda uygulama adı. Heroku APP Name.",
+            "description": "Heroku APP Name.",
             "required": true
         },
         "DEBUG": {
-            "description": "Geliştiricilere özeldir.",
+            "description": "It is for developers.",
             "required": true,
             "value": "false"
         },
         "REMOVE_BG_API_KEY": {
-            "description": "Fotoğrafların arkaplanını kaldırır. https://remove.bg",
+            "description": "https://remove.bg",
             "required": false
         },
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```"
+            "value": "\n ```I AM ALIVE Coded By Mikhaiel !!!```\n\n```Type``` *.help* ```for commands```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -149,17 +153,17 @@
             "value": "default"
         },
         "GAN_IMAGE": {
-            "description": "Gan Style eklentisi için resim bağlantısı yazın. Type image link for Gan Style plugin.",
+            "description": "Type image link for Gan Style plugin.",
             "required": true,
             "value": "https://i.hizliresim.com/loUtAb.jpg"
         },
         "NO_ONLINE": {
-            "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",
+            "description": "Type true if you don't want to appear online.",
             "required": false,
             "value": "true"
         },
         "COFFEEHOUSE_API_KEY": {
-            "description": "Pass This Step! - Bu Bölümü Geçin!",
+            "description": "Pass This Step!",
             "required": false,
             "value": "true"
         }
