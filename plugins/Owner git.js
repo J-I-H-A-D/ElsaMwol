@@ -1,63 +1,29 @@
-const asena = require('../events');
-const {MessageType} = require('@adiwajshing/baileys');
-const OWNER = "it sends details of owner"
-const GIT = "it sends links"
-const Config = require('../config');
+const Asena = require('../events');
+const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
+const axios = require('axios');
 
+const Language = require('../language');
+const Lang = Language.getString('wallpaper');
 
-if (Config.WORKTYPE == 'private') {
-        asena.addCommand({pattern: 'owner', fromMe: true, deleteCommand: true, desc: OWNER,}, (async (message, match) => {
-
-    var r_text = new Array ();
-    
-    r_text[1] = "*╔═════ElsaMwol🙍═════╗*\n             \n *😈═ElsaMwol🙍═😈* \n\n   *owner JiHaD - http://Wa.me/+917736703116 \n* *\n🔰instagram:-https://www.instagram.com/nthada.show.ano* \n *╚══════♻️═════╝* \n\n *▷Creator: JiHaD SeR*"
-
-    
-    await message.client.sendMessage(
-        message.jid,(r_text[1]), MessageType.text);
-
-    }));
-
-
-        asena.addCommand({pattern: 'git', fromMe: true, deleteCommand: true, desc: GIT,}, (async (message, match) => {
-
-        var r_text = new Array ();
-    
-        r_text[1] = "*Git links*\n           *\n💥═ElsaMwol🙍 Owner JiHaD═💥*\n\n*💘https://github.com/J-I-H-A-D/ElsaMwol*\n*"
-
-    
-        await message.client.sendMessage(
-            message.jid,(r_text[1]), MessageType.text);
-    
-        }));    
-
-    }
-    
-
-    if (Config.WORKTYPE == 'public') {
-        asena.addCommand({pattern: 'owner', fromMe: false, deleteCommand: true, desc: OWNER,}, (async (message, match) => {
+Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════ElsaMwol🙍═════╗*\n                            \n *⚜═Elsa🙍═⚜*                        \n\n*owner JiHaD - http://Wa.me/+917736703116*\n *\n🔰instagram:-https://www.instagram.com/nthada.show.ano*            *\n*╚════♻️══♻️══♻️═══╝*\n\n*▷Creator: JiHaD*"
-
     
-    await message.client.sendMessage(
-        message.jid,(r_text[1]), MessageType.text);
-
-    }));
-
-
-        asena.addCommand({pattern: 'git', fromMe: false, deleteCommand: true, desc: GIT,}, (async (message, match) => {
-
-        var r_text = new Array ();
+   
+  r_text[0] = "https://i.imgur.com/5XTwx0i.jpeg";
     
-        r_text[1] = "```Git links```\n           \n💥 *═Elsa🙂 owner JiHaD═* 💥 \n\n 💘 *https://github.com/J-I-H-A-D/ElsaMwol* \n"
-
     
-        await message.client.sendMessage(
-            message.jid,(r_text[1]), MessageType.text);
-    
-        }));    
+    var i = Math.floor(1*Math.random())
 
-    }
+    var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
+
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Creater Mikhaiel*
+*Bgm updation💘*
+*Owner number wa.me/919544846609*
+*githublink       https://github.com/Mikhaiel/Jinnh*
+*audio commads    https://github.com/Mikhaiel/Jinnh/tree/master/uploads*
+*sticker commads  https://github.com/Mikhaiel/Jinnh/tree/master/stickers*
+`}) 
+
+}));
