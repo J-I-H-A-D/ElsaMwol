@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "Manglish",
     "LANGCODE": "ml",
-    "AUTHOR": "Afnan-plk",
+    "AUTHOR": "JIHAD",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
@@ -186,12 +186,12 @@
             "SONG_DESC": "ningal type cheytha paatt upload cheyth therum.",
             "NEED_TEXT_SONG": "*paattinte per adikku!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*ennikk onnum kandethaan aayilla :(*",
-            "DOWNLOADING_SONG": "\npaatt thappunnu 🤗\n",
-            "UPLOADING_SONG": "\nPaatt Upload 📲 cheyyunnu\n",
+            "DOWNLOADING_SONG": "\n*Ningal Search Cheytha Song Nokkunu🙈*\n",
+            "UPLOADING_SONG": "\n*USE YOUR HEADPHONS AND FEEL THE SONG🕺💃*\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
             "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "\n```Downloading...```\n",
-            "UPLOADING_VIDEO": "\n```Uploading...```\n",
+            "UPLOADING_VIDEO": "\n```Inna Pidicho Mwuthe```\n",
             "YT_DESC": "YouTubeill search cheyyum.",
             "NEED_WORDS": "```search cheyende words type cheyyu!```",
             "GETTING_VIDEOS": "```video link kond verunnu...```",
@@ -255,7 +255,7 @@
             "CM_DESC": "compliment kittaan.",
             "NOT_FOUNDAC": "*thettaaya Request*",
             "CM": "Hey,",
-            "BOT_DESC": "botinod samsarikkaan.\n Use .bot <message>",
+            "BOT_DESC": "ennod samsarikkaan.\n Use .bot <message>",
             "BOT": ":",
             "JOKE_DESC": "oru thamasha parayyatte....",
             "JOKE": "thamasha:",
@@ -516,7 +516,7 @@
             "ARAT": "Searched Song:"
         },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github phaticusthiccy",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github ElsaMwol",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
