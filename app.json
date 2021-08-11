@@ -1,7 +1,7 @@
 {
     "name": "ElsaMwol V2🕺",
     "description": "ElsaMwol - Whatsapp Bot",
-    "logo": "https://avatars.githubusercontent.com/u/72667834?v=4",
+    "logo": "https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/J-I-H-A-D/ElsaMwol",
     "Join Our Whatsapp Support Group": "https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0",
@@ -120,7 +120,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I AM ALIVE Coded By Mikhaiel !!!```\n\n```Type``` *.help* ```for commands```"
+            "value": "\n ```I AM ALIVE Coded By JiHaD !!!```\n\n```Type``` *.help* ```for commands```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
