@@ -122,6 +122,11 @@
             "required": false,
             "value": "\n ```I AM ALIVE Coded By JiHaD !!!```\n\n```Type``` *.help* ```for commands```"
         },
+        "BOT_NAME": {
+            "description": "heading for .help command reply",
+            "required": false,
+            "value": "•━━━━╼ 𝐄𝐥𝐬𝐚𝐌𝐰𝐨𝐥 ╾━━━•"
+        },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
             "required": false,
