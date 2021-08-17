@@ -147,7 +147,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
             await conn.updatePresence(msg.key.remoteJid, Presence.unavailable);
         }
 
-        if (msg.messageStubType === 32 || msg.messageStubType === 28) {
+        if (config.GIFORPP == 'pp' || config.GIFORPP == 'Pp' || config.GIFORPP == 'PP' || config.GIFORPP == 'pP' ) {
+    if (msg.messageStubType === 32 || msg.messageStubType === 28) {
             // Görüşürüz Mesajı
             var gb = await getMessage(msg.key.remoteJid, 'goodbye');
             if (gb !== false) {
@@ -168,6 +169,26 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
             }
             return;
         }
+    }
+    else if (config.GIFORPP == 'gif' || config.GIFORPP == 'Gif' || config.GIFORPP == 'GIF' || config.GIFORPP == 'GIf' ) {
+    if (msg.messageStubType === 32 || msg.messageStubType === 28) {
+            // Görüşürüz Mesajı
+            var gb = await getMessage(msg.key.remoteJid, 'goodbye');
+            if (gb !== false) {
+                var sewqueenimage = await axios.get(config.GIF_BYE, { responseType: 'arraybuffer' })
+                await conn.sendMessage(msg.key.remoteJid, Buffer.from(sewqueenimage.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message +'\n\n                 ᴘᴏᴡᴇʀᴅ ʙʏ ```Elsa```'});
+            }
+            return;
+        } else if (msg.messageStubType === 27 || msg.messageStubType === 31) {
+            // Hoşgeldin Mesajı
+            var gb = await getMessage(msg.key.remoteJid);
+            if (gb !== false) {
+            var sewqueenimage = await axios.get(config.GIF_WEL, { responseType: 'arraybuffer' })
+            await conn.sendMessage(msg.key.remoteJid, Buffer.from(sewqueenimage.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message +'\n\n                 ᴘᴏᴡᴇʀᴅ ʙʏ ```Elsa```'});
+            }
+            return;
+        }
+     }
 
         events.commands.map(
             async (command) =>  {
