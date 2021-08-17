@@ -20,9 +20,13 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Creater JiHaD*
 *Bgm updation💘*
+
 *Owner number wa.me/917736703116*
+
 *githublink       https://github.com/J-I-H-A-D/ElsaMwol*
+
 *audio commads    https://github.com/J-I-H-A-D/ElsaMwol/tree/master/uploads*
+
 *sticker commads  https://github.com/J-I-H-A-D/ElsaMwol/tree/master/stickers*
 `}) 
 
