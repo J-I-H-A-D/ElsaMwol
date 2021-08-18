@@ -1,12 +1,12 @@
 /* Moded by Insane boy
 
- Thanks to shadow,saidali,farhandqz,ashik
+ Thanks to shadow,saidali,farhandqz,ashik,Jihad
 
 Copy അടിക്കുമ്പോൾ പേര് മാറ്റരുത് ഒരുപാട് ദിവസത്തെ കഷ്ടപ്പാട് ആണ്
 
    For more info contact :
 
-          https://chat.whatsapp.com/DzcfAcaAZoA5f1X4JT4eEo
+          
 
 */
 
@@ -24,7 +24,7 @@ const ll ="*എന്തെങ്കിലും type ആക് 🙇‍♂️*"
 
 const Ln = "*▷🤖നിങ്ങൾ ആഗ്രഹിക്കുന്ന രീതിയിൽ മെമ്മുകൾ ഇച്ഛാനുസൃതമാക്കാൻ മെമ്മെ ലിസ്റ്റ്◁* "
 
- const code = "*╔════◉ CAMANDS ◉════╗*\n\n            *❖═List═❖*\n \n*🔮.quby1    ❴text❵*\n*🔮.quby2    ❴text❵*\n*🔮.quby3    ❴text❵*\n*🔮.quby4    ❴text❵*\n*🔮.cat1    ❴text❵*\n*🔮.cat2    ❴text❵*\n*🔮.cat3    ❴text❵*\n*🔮.cat4    ❴text❵*\n*🔮.catangry1    ❴text❵*\n*🔮.catangry2    ❴text❵*\n*🔮.catangry3    ❴text❵*\n*🔮.catangry4    ❴text❵*\n*🔮.doggy1    ❴text❵*\n*🔮.doggy2    ❴text❵*\n*🔮.doggy3    ❴text❵*\n*🔮.doggy4    ❴text❵*\n*🔮.trollikka1    ❴text❵*\n*🔮.trollikka2    ❴text❵*\n*🔮.trollikka3    ❴text❵*\n*🔮.trollikka4    ❴text❵*\n*🔮.trollettan1    ❴text❵*\n*🔮.trollettan2    ❴text❵*\n*🔮.trollettan3    ❴text❵*\n*🔮.trollettan4    ❴text❵*\n*🔮.trollvijay1    ❴text❵*\n*🔮.trollvijay2    ❴text❵*\n*🔮.trollvijay3    ❴text❵*\n*🔮.trollvijay4    ❴text❵*\n\n*╚═══❖══▣══▣══❖═══╝*\n\n*▷Moded вy: ιnѕane вoy*\n*▷Specιal тнanĸѕ тo ѕнadow ѕιr*"
+ const code = "*╔════◉ COMANDS ◉════╗*\n\n            *❖═List═❖*\n \n*🔮.quby1    ❴text❵*\n*🔮.quby2    ❴text❵*\n*🔮.quby3    ❴text❵*\n*🔮.quby4    ❴text❵*\n*🔮.cat1    ❴text❵*\n*🔮.cat2    ❴text❵*\n*🔮.cat3    ❴text❵*\n*🔮.cat4    ❴text❵*\n*🔮.catangry1    ❴text❵*\n*🔮.catangry2    ❴text❵*\n*🔮.catangry3    ❴text❵*\n*🔮.catangry4    ❴text❵*\n*🔮.doggy1    ❴text❵*\n*🔮.doggy2    ❴text❵*\n*🔮.doggy3    ❴text❵*\n*🔮.doggy4    ❴text❵*\n*🔮.trollikka1    ❴text❵*\n*🔮.trollikka2    ❴text❵*\n*🔮.trollikka3    ❴text❵*\n*🔮.trollikka4    ❴text❵*\n*🔮.trollettan1    ❴text❵*\n*🔮.trollettan2    ❴text❵*\n*🔮.trollettan3    ❴text❵*\n*🔮.trollettan4    ❴text❵*\n*🔮.trollvijay1    ❴text❵*\n*🔮.trollvijay2    ❴text❵*\n*🔮.trollvijay3    ❴text❵*\n*🔮.trollvijay4    ❴text❵*\n\n*╚═══❖══▣══▣══❖═══╝*\n\n*▷Moded вy: ιnѕane вoy*\n*▷Specιal тнanĸѕ тo ѕнadow ѕιr*"
 
 if (Config.WORKTYPE == 'public') {
 
