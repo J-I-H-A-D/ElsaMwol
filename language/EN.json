@@ -224,14 +224,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*ElsaMwol V2 ❤ completely up-to-date!*",
-            "NEW_UPDATE": "*New update available for ElsaMwol V2 💝!*\n\nChanges:\n```",
+            "UPDATE": "*ElsaMwol  🕊️ completely up-to-date!*",
+            "NEW_UPDATE": "*New update available for ElsaMwol  🕊️!*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "Updating...🤖",
+            "UPDATING": "Updating...🕊️",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*✅  Updated!*",
             "UPDATED_LOCAL": "*✅ Updated!*",
-            "AFTER_UPDATE": "*ElsaMwolv2💝 Restarting !*",
+            "AFTER_UPDATE": "*ElsaMwol 🕊️ Restarting !*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
