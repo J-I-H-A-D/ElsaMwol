@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg" width="300" height="400"/>
+  <img border-radius: 15px src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg" width="400" height="400"/>
   
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ElsaMwol+WA+Bot+repo;Created+by+AJNAS-SK+Ser;This+is+the+Best++Bgm+bot;With+more+features)]
 
