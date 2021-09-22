@@ -1,7 +1,7 @@
 <div align="center">
   <img border-radius: 15px src="https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg" width="200" height="200"/>
   
-## ([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ElsaMwol+WA+Bot+repo;Created+by+Jihad+Ser;This+is+the+Best++Bgm+bot;With+more+features)])
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ElsaMwol+WA+Bot+repo;Created+by+AJNAS-SK+Ser;This+is+the+Best++Bgm+bot;With+more+features)]
 
 
 <p align="center">
@@ -10,7 +10,7 @@
  src="https://img.shields.io/badge/-Elsa%20Mowl-blue?&style=for-the-badge"></a>
  </p>
   <p align="center">
-<a href="https://wa.me/917736703116"><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/917736703116"><img title="Author" src="https://img.shields.io/badge/Author-AJNAS-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
  </p>
  
 ## Subscriber My Channel More Updates Coming Soon..
@@ -18,7 +18,7 @@
 ![20210613_095153](https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg) 
 
  ##
-https://youtube.com/channel/UCJsw1rA4aiujLDM42Yte1nQ
+https://youtu.be/L8E4enqfYik
  
 # 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -38,7 +38,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/JULIEMWOL-QR#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/J-I-H-A-D/ElsaMwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AJNAS-SK/ElsaMwol)
      </div>
      
      ## TERMUX SET UP
