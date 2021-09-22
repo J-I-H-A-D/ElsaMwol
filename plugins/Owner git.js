@@ -3,7 +3,7 @@ const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 
 const Language = require('../language');
-const Lang = Language.getString('wallpaper');
+const Lang = Language.getString('gitlink');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message, match) => {
 
