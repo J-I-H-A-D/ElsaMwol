@@ -15,7 +15,7 @@
  
 ## Subscriber My Channel More Updates Coming Soon..
  
-![20210613_095153](https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg) 
+
 
  ##
 https://youtu.be/L8E4enqfYik
@@ -24,7 +24,7 @@ https://youtu.be/L8E4enqfYik
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/C8pNiK1gjWSDsoFhJaV6lK)
   <div align="center">
  
 
@@ -50,7 +50,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
+$ git clone https://github.com/AJNAS+SK/ElsaMwol
 $ cd ElsaMwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
