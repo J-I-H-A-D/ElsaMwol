@@ -61,7 +61,7 @@ $ node qr.js
 ```js
 SETUP
 
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
+$ git clone https://github.com/AJNAS-SK/ElsaMwol
 $ cd ElsaMwol
 $ chmod +x *
 $ npm i
