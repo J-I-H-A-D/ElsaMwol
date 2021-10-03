@@ -130,7 +130,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I AM ALIVE Coded By JiHaD !!!```\n\n```Type``` *.help* ```for commands```"
+            "value": "\n ```I AM ALIVE  !!!```\n\n```Type``` *.help* ```for commands```"
         },
         "BOT_NAME": {
             "description": "heading for .help command reply",
