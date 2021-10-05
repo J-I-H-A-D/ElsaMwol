@@ -10,9 +10,9 @@ const fs = require("fs")
 
 const Language = require('../language');
 
-const Lang = Language.getString('gitlink');
+const Lang = Language.getString('wallpaper');
 
-Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message, match) => {
+Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => {
 
     var respoimage = await axios.get(config.ELSA, { responseType: 'arraybuffer' })
 
