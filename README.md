@@ -24,7 +24,7 @@ https://youtu.be/L8E4enqfYik
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/C8pNiK1gjWSDsoFhJaV6lK)
+  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/C8pNiK1gjWSDsoFhJaV6lK)
   <div align="center">
  
 
