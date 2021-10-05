@@ -75,12 +75,12 @@ $ node bot.js
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, J-I-H-A-D do not accept responsibility.
+Absolutely, A-J-N-A-S do not accept responsibility.
 By establishing the Userbot, you are deemed to have accepted these responsibilities.
 ```
 
+[![AJNAS SK](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
 
-
-Project created by JIHAD to make it public
+Project created by AJNAS to make it public
 
 © Reserved
