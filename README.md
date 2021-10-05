@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://bit.ly/3lC8I7t"><img src="https://telegra.ph/file/512d351c22dcee8bbdb0f.mp4"  alt="google-font" border="0"></a>
+<a href="https://bit.ly/3lC8I7t"><img src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg"  alt="google-font" border="0"></a>
 
   # <u> SETUP <u>
 
