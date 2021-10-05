@@ -32,7 +32,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=ELSA+MWOL+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+AJNAS+SK)](https://bit.ly/3lC8I7t)
   
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/512d351c22dcee8bbdb0f.mp4" width="350" height="310"/>
+  <img border-radius: 15px src="https://telegra.ph/file/512d351c22dcee8bbdb0f.gif" width="350" height="310"/>
   
 
 
