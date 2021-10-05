@@ -1,11 +1,44 @@
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg" width="400" height="400"/>
+
+<a href="https://bit.ly/3lC8I7t"><img src="https://telegra.ph/file/1e356db1fcfe0731d88b8.jpg" alt="google-font" border="0"></a>
+
+  # <u> SETUP <u>
+
+  
+
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Raganork-QR)
+
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3hrN7gU)
+
+     
+
+<a href="https://chat.whatsapp.com/ClnLdmPpRh1BjtAY86njhN"><img src="https://www.linkpicture.com/q/LPic614d2f8eed9fe797753793.png" alt="Join our group" height="25" width="500" border="0"></a>
+
+  
+
+  </p>
+
+  
+
+  </p>
+
+  
+
+<details>
+
+    <summary>⏬<b>CLICK HERE FOR MORE INFO⏬</b></summary>
+<div align="center">
+  
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=ELSA+MWOL+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+AJNAS+SK)](https://bit.ly/3lC8I7t)
   
 <div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg" width="350" height="310"/>
+  
+
 
   
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=ELSA+MWOL+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+AJNAS+SK)](https://bit.ly/3lC8I7t)
+
 
 
   
