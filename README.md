@@ -6,7 +6,7 @@
 
   
 
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@JihadSabeena123/ElsaMwol)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@AjnasDqz)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/AJNAS-SK/ElsaMwol)
 
