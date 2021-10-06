@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
    
 
-  r_text[0] = "https://telegra.ph/file/6c3eb1ef662f21356a58c.mp4";
+  r_text[0] = "https://telegra.ph/file/285a11813cfd41626bce8.jpg";
 
     
 
