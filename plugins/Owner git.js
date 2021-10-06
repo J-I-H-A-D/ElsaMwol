@@ -34,11 +34,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *Owner number wa.me/917736703116*
 
-*githublink       https://github.com/AJNAS SK/ElsaMwol*
+*githublink       https://github.com/AJNAS-SK/ElsaMwol*
 
-*audio commads    https://github.com/AJNAS SK/ElsaMwol/tree/master/uploads*
+*audio commads    https://github.com/AJNAS-SK/ElsaMwol/tree/master/uploads*
 
-*sticker commads  https://github.com/AJNAS SK/ElsaMwol/tree/master/stickers*
+*sticker commads  https://github.com/AJNAS-SK/ElsaMwol/tree/master/stickers*
 
 `}) 
 
