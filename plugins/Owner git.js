@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
    
 
-  r_text[0] = "https://telegra.ph/file/285a11813cfd41626bce8.jpg";
+  r_text[0] = "https://telegra.ph/file/6c3eb1ef662f21356a58c.mp4";
 
     
 
@@ -32,7 +32,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *Best Bgm Bot 🕊️*
 
-*Owner number wa.me/917736703116*
+*Owner number wa.me/917736936605*
 
 *githublink       https://github.com/AJNAS-SK/ElsaMwol*
 
