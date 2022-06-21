@@ -24,16 +24,6 @@
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
             "value": "true"
-        },  
-        "GIF_WEL": {
-            "description": "Welcome message video നിങ്ങൾക്ക് വേണ്ട welcome gif ന്റെ link കൊടുക്കുക (correct link koduthillankil error varum).",
-            "required": true,
-            "value": "https://i.imgur.com/iRCjokG.mp4"
-        },
-        "GIF_BYE": {
-            "description": "Goodbye message video നിങ്ങൾക്ക് വേണ്ട goodbye gif ന്റെ link കൊടുക്കുക (correct link koduthillankil error varum).",
-            "required": true,
-            "value": "https://i.imgur.com/NTar8dQ.mp4"
         },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
